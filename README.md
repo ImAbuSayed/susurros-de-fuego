@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche tú te escapas conmigo
+> En mi coche oscuro, sin dejar un testigo
+> Tú eres el fuego que en la sombra persigo
+> Y yo soy el veneno que tu cuerpo ha pedido
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
